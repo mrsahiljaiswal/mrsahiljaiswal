@@ -1,4 +1,4 @@
-<div style="background-position:cover"><img src="[https://i.pinimg.com/564x/ad/61/b5/ad61b53c3646a43a1670e6f567b2e162.jpg](https://drive.google.com/file/d/15FhAbXgPtHVui9m8pg4oq229wFyTcCkL/view?usp=sharing)"></div>
+<div style="background-position:cover"><img src="(https://drive.google.com/file/d/15FhAbXgPtHVui9m8pg4oq229wFyTcCkL/view?usp=sharing)"></div>
 <h1 align="center">Hi 👋, I'm Sahil Jaiswal</h1>
 <h3 align="center">Web Dev Enthusiast.</h3>
 
