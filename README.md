@@ -1,4 +1,4 @@
-<center><div><img src="https://i.pinimg.com/564x/ad/61/b5/ad61b53c3646a43a1670e6f567b2e162.jpg"></div></center>
+<div style="background-position:cover"><img src="https://i.pinimg.com/564x/ad/61/b5/ad61b53c3646a43a1670e6f567b2e162.jpg"></div>
 <h1 align="center">Hi 👋, I'm Sahil Jaiswal</h1>
 <h3 align="center">Web Dev Enthusiast.</h3>
 
