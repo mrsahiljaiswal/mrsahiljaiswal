@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahil Jaiswal</h1>
 <h3 align="center">GEEK</h3>
 
-- 🌱 I’m currently learning **Web Dev,Java**
+- 🌱 I’m currently learning **Web Dev | Java**
+
+- 💬 Open to Discuss on **Web Dev | Coding | Photo & Video Editing | Tech**
+
+- 📫 Reach me **sahiljaiswal757@gmail.com**
 
 - 👨‍💻 All of my projects are available at [github.com/mrsahiljaiswal](github.com/mrsahiljaiswal)
-
-- 💬 Open to Discuss on **web dev, coding, photo & video editing**
-
-- 📫 How to reach me **sahiljaiswal757@gmail.com**
 
 - ⚡ Believer of **Progress In Process, Do Not Exit!**
 
