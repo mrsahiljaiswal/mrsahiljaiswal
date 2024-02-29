@@ -1,6 +1,5 @@
-<div style="background-position:cover"><img src="(https://drive.google.com/file/d/15FhAbXgPtHVui9m8pg4oq229wFyTcCkL/view?usp=sharing)"></div>
 <h1 align="center">Hi 👋, I'm Sahil Jaiswal</h1>
-<h3 align="center">Web Dev Enthusiast.</h3>
+<h3 align="center">GEEK</h3>
 
 - 🌱 I’m currently learning **Web Dev,Java**
 
