@@ -7,8 +7,8 @@
 
 - 📫 Reach me **sahiljaiswal757@gmail.com**
 
-- 👨‍💻 All of my projects are available at (github.com/mrsahiljaiswal)
-
+- 👨‍💻 All of my projects are available at [github.com/mrsahiljaiswal]
+  
 - ⚡ Believer of **Progress In Process, Do Not Exit!**
 
 <h3 align="left">Connect with me:</h3>
