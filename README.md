@@ -4,7 +4,7 @@
 </h1>
 
 
-![alt text](Github_banner_mrsahiljaiswal.gif)
+![alt text](Public/Github_banner_mrsahiljaiswal.gif)
 
 
 <div align="center">
