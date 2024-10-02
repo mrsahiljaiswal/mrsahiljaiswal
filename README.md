@@ -1,5 +1,4 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mrsahiljaiswal"/>
-<br/>
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00F7B3&size=35&center=true&&height=70&duration=4000&vCenter=true&width=600&lines=👋🏻+Hey+folks+!;I'm+Sahil+Jaiswal+!;A+passionate+Web-Developer+!" alt="Typing SVG" />
 </h1>
