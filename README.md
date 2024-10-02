@@ -10,7 +10,7 @@
 <div align="center">
 <h5>
    
-🌱 I’m currently learning **DSA** and the **MERN stack**
+🌱 I’m currently learning **DSA** and **MERN stack**
 
 📫 Officials can reach me at **[sahiljaiswal757@gmail.com](mailto:sahiljaiswal757@gmail.com)**
 
