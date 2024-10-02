@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<h3>
+<h5>
    
 🌱 I’m currently learning **DSA** and the **MERN stack**
 
@@ -17,20 +17,25 @@
 🤝 I’m open to project **Collaborations**!
 
 ⚡ I also love **Music** and **Photography**
-</h2>
+</h5>
 </div>
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/mrsahiljaiswal" target="_blank">
-    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+ <a href="https://linkedin.com/in/mrsahiljaiswal" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mr_sahiljaiswal" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:sahiljaiswal757@gmail.com">
+    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@beyond_sahil" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://instagram.com/mr_sahiljaiswal" target="_blank">
-    <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
-</a>
-<a href="mailto:sahiljaiswal757@gmail.com">
-    <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-</a>
+
 
 </p>
 
