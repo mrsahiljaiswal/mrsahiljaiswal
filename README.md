@@ -8,7 +8,8 @@
 
 
 <div align="center">
-
+<h3>
+   
 🌱 I’m currently learning **DSA** and the **MERN stack**
 
 📫 Officials can reach me at **[sahiljaiswal757@gmail.com](mailto:sahiljaiswal757@gmail.com)**
@@ -16,6 +17,7 @@
 🤝 I’m open to project **Collaborations**!
 
 ⚡ I also love **Music** and **Photography**
+</h2>
 </div>
 
 
@@ -64,32 +66,14 @@
   <h1 align="center"> ⚡Stats⚡ </h1>
 
 <div align="center">
-
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrsahiljaiswal&bg_color=000000&color=ffffff&line=00d68f&point=ff006f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsahiljaiswal&theme=radical" alt="GitHub Streak Stats" />
-</p>
-<p>
+
   <img src="https://github-readme-stats.vercel.app/api?username=mrsahiljaiswal&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsahiljaiswal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 </div>
-
----
-<div align="center">
-
-###
-
-<img src="https://raw.githubusercontent.com/mrsahiljaiswal/mrsahiljaiswal/output/snake.svg" alt="Snake animation" />
-
-###
-</div>
-
----
