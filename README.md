@@ -61,6 +61,9 @@
       <img src="https://skillicons.dev/icons?i=materialui" />
       <img src="https://skillicons.dev/icons?i=tailwind" />
       <img src="https://skillicons.dev/icons?i=vscode" />
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+      <img src="https://skillicons.dev/icons?i=figma" />
+
    </p>
 
 
