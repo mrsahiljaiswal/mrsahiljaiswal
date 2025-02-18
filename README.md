@@ -25,7 +25,7 @@
  <a href="https://linkedin.com/in/mrsahiljaiswal" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/mr_sahiljaiswal" target="_blank">
+  <a href="https://instagram.com/beyond_sahil" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:sahiljaiswal757@gmail.com">
